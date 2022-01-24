@@ -1,4 +1,4 @@
-#boj,kr/1449
+#boj.kr/1449
 
 N, L = map(int, input().split())
 
